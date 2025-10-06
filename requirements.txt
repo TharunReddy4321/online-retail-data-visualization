@@ -1,0 +1,26 @@
+# Core Data Analysis
+pandas==2.3.2
+numpy==2.3.3
+openpyxl==3.1.5
+xlrd==2.0.1
+
+# Data Visualization
+plotly==6.3.0
+matplotlib==3.10.6
+seaborn==0.13.2
+altair==5.5.0
+
+# Web Dashboard
+streamlit==1.50.0
+tornado==6.5.2
+
+# Image Export
+kaleido==1.1.0
+pillow==11.3.0
+
+# Data Processing
+scipy==1.11.4
+
+# Development Tools
+jupyter
+ipython

@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 **Authors**
 
-- **Data Analysis Team** - *Initial work* - [Your GitHub](https://github.com/yourusername)
+- **Sai Tharun Reddy Rupireddy** - *Initial work* - (https://github.com/TharunReddy4321)
 
 ## 🙏 **Acknowledgments**
 
@@ -241,8 +241,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **Project Link**: [https://github.com/yourusername/online-retail-data-visualization](https://github.com/yourusername/online-retail-data-visualization)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/online-retail-data-visualization/issues)
+- **Project Link**: [https://github.com/TharunReddy4321/online-retail-data-visualization]
+- **Issues**: [GitHub Issues](https://github.com/TharunReddy4321/online-retail-data-visualization/issues)
 
 ---
 
